@@ -2,9 +2,7 @@
 
 [Starrydata project](https://starrydata.org/) utilizes [Starrydata2 web system](https://www.starrydata2.org/) to collect experimental data from materials science research papers. The collected data is published as datasets on the [Starrydata project page on Figshare](https://figshare.com/projects/Starrydata_datasets/155129). However, visualizing big data requires an analytical environment. To address this, Starrydata Visualizer offers pre-prepared graphs, allowing even those without an analytical environment to easily view an overview of the data. The data is updated daily for use in data cleansing by the [Starrydata team's data collectors](https://starrydata.org/project/members.html).
 
-## [Top 70 curve graphs](/all_curves/)
-
-### Top 9 example curve graphs
+## Top 9 example curve graphs
 
 <table>
 <tr>
@@ -23,6 +21,11 @@
 <td><a href="https://visualizer.starrydata.org/all_curves/Discharge%20capacity-Voltage.html"><img src="https://github.com/starrydata/starry-visualization/assets/30012556/8ab660d1-11ce-45cc-9558-0a1b9581629e"></a></td>
 </tr>
 </table>
+
+## All 70 curve graphs
+
+<a href="/all_curves/"><img width="434" alt="image" src="https://github.com/starrydata/starry-visualization/assets/30012556/4eb79ea2-7dc0-48d3-a29d-32a5f11b8066"></a>
+
 
 ## Old versions
 

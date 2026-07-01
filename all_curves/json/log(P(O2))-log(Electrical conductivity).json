@@ -1,0 +1,124 @@
+{
+  "db_snapshot_timestamp": "2026-07-02 02:00:02 UTC+0900 (JST)",
+  "prop_x": "log(P(O2))",
+  "unit_x": "kg/s**2/m",
+  "prop_y": "log(Electrical conductivity)",
+  "unit_y": "S*m^(-1)",
+  "data": {
+    "x": [
+      [
+        -421600,
+        -296200,
+        -197900,
+        -110800,
+        -10930
+      ],
+      [
+        -424100,
+        -295300,
+        -195900,
+        -110000,
+        -10840
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "y": [
+      [
+        218.3,
+        219.5,
+        220,
+        220.4,
+        220.7
+      ],
+      [
+        217.4,
+        218.2,
+        218.4,
+        219.2,
+        219.8
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "SID": [
+      "43988",
+      "43988",
+      "43988",
+      "43988",
+      "43988",
+      "43988",
+      "43988",
+      "43988",
+      "43988",
+      "43988",
+      "43988"
+    ],
+    "figure_id": [
+      "38412",
+      "38412",
+      "38412",
+      "38412",
+      "38412",
+      "38412",
+      "38412",
+      "38412",
+      "38412",
+      "38412",
+      "38412"
+    ],
+    "sample_id": [
+      "49797",
+      "49798",
+      "49799",
+      "49800",
+      "49801",
+      "49802",
+      "49804",
+      "49805",
+      "49806",
+      "49807",
+      "49803"
+    ],
+    "composition": [
+      "LaNi0.6Fe0.4O3",
+      "LaNi0.6Fe0.4O3",
+      "LaNi0.6Fe0.4O3",
+      "LaNi0.6Fe0.4O3",
+      "LaNi0.6Fe0.4O3",
+      "LaNi0.6Fe0.4O3",
+      "LaNi0.6Fe0.4O3",
+      "LaNi0.6Fe0.4O3",
+      "LaNi0.6Fe0.4O3",
+      "LaNi0.6Fe0.4O3",
+      "LaNi0.6Fe0.4O3"
+    ],
+    "updated_at": [
+      "Sun Aug 21 2022 14:33:05 GMT+0900 (Japan Standard Time)",
+      "Sun Aug 21 2022 14:33:24 GMT+0900 (Japan Standard Time)",
+      "Sun Aug 21 2022 14:33:37 GMT+0900 (Japan Standard Time)",
+      "Sun Aug 21 2022 14:33:49 GMT+0900 (Japan Standard Time)",
+      "Sun Aug 21 2022 14:33:58 GMT+0900 (Japan Standard Time)",
+      "Sun Aug 21 2022 14:34:09 GMT+0900 (Japan Standard Time)",
+      "Sun Aug 21 2022 14:34:20 GMT+0900 (Japan Standard Time)",
+      "Sun Aug 21 2022 14:34:30 GMT+0900 (Japan Standard Time)",
+      "Sun Aug 21 2022 14:34:42 GMT+0900 (Japan Standard Time)",
+      "Sun Aug 21 2022 14:34:54 GMT+0900 (Japan Standard Time)",
+      "Sun Aug 21 2022 14:35:07 GMT+0900 (Japan Standard Time)"
+    ]
+  }
+}
